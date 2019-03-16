@@ -36407,9 +36407,9 @@
     <string name="d0" value="Oh, hey. I managed to get this nice statue of myself, cool huh?"/>
   </imgdir>
   <imgdir name="9977777">
-    <string name="n0" value="Hey, I am /name, head developer of HeavenMS. How&apos;re you faring?"/>
-    <string name="n1" value="HeavenMS was developed in 3 years, based on Solaxia. Many features emerged since then, all gracefully presented to you in this server. Long live MapleStory!!"/>
+    <string name="n0" value="Hey, I am /name."/>
+    <string name="n1" value="Long live MapleStory!!"/>
     <string name="d0" value="Oh, hey. I managed to get this nice statue of myself, cool huh?"/>
-    <string name="func" value="HeavenMS Developer"/>
+    <string name="func" value="Maplestory Fan"/>
   </imgdir>
 </imgdir>

@@ -869,7 +869,7 @@ public class Server {
             System.exit(0);
         }
 
-        System.out.println("HeavenMS v" + ServerConstants.VERSION + " starting up.\r\n");
+        System.out.println("ProjectNano v" + ServerConstants.VERSION + " starting up.\r\n");
         
         if(ServerConstants.SHUTDOWNHOOK)
             Runtime.getRuntime().addShutdownHook(new Thread(shutdown(false)));
@@ -965,7 +965,7 @@ public class Server {
         
         System.out.println("Listening on port 8484\r\n\r\n");
 
-        System.out.println("HeavenMS is now online.\r\n");
+        System.out.println("ProjectNano is now online.\r\n");
         online = true;
         
         MapleSkillbookInformationProvider.getInstance();

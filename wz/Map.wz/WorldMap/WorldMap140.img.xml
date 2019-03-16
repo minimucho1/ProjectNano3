@@ -2,7 +2,7 @@
 <imgdir name="WorldMap140.img">
   <imgdir name="info">
     <string name="parentMap" value="WorldMap"/>
-    <string name="disclaimer" value="HeavenMS rev227:
+    <string name="disclaimer" value="ProjectNano vBeta:
 
 Added world maps for Mushroom Castle, Zipangu, CBD/Malaysia and Ellin Forest regions. Original artwork content used on files depicted in this topic are rightful property of Nexon Corps., these files thoroughly trying to adhere the &quot;Fair Use&quot; disclaimer policy, their purpose being solely to fulfill gaming experience for the areas that were already present on v83 GMS but still lacked worldmaps. For more info regarding Fair Use, please refer to http://www.dmlp.org/legal-guide/fair-use."/>
   </imgdir>
